@@ -11,6 +11,8 @@ Originally created by Skillbert from RuneApps.org - https://runeapps.org/forums/
 
 ----------
 # ALT1 YouTube App
+
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
 See: https://runeapps.org/forums/viewtopic.php?pid=5473#p5473  
 
 Great news - I've taken a look at the old YouTube app and got the app back in action with some simple fixes.  
